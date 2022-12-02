@@ -45,6 +45,20 @@
          "images": [
             "vrsto.gif"
          ]
+      },{
+         "id": "ca",
+         "name": "Rode planten",
+         "desc": [
+            "Een visueel verslag naar mijn ontwikkeling als Change Agent",
+            "'Rode planten' verwijst naar het voorbeeld dat ik gebruikte om anderen aan het denken te zetten. Als change agent faciliteer ik het creatieve proces, maar doe ik niet mee. Om anderen in de goede richting te sturen, gebruikte ik steeds een voorbeeldscenario die zij dan op hun eigen casus konden toepassen.",
+            "'Hoe kunnen wij rode planten verkopen?'",
+            "Rode planten zijn iets dat eigenlijk niet bestaat, maar voor de meeste wel aardig voor te stellen is. Rode planten zijn daarmee ook het uitgangspunt van mijn posterpresentatie over mijn ontwikkeling als change agent"
+         ],
+         "link": "https://issuu.com/ocmerpv/docs/ca_spreadless",
+         "images": [
+            "cacover.png",
+            "caposter.png"
+         ]
       },
       {
          "id": "nad",
