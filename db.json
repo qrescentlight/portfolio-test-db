@@ -13,7 +13,8 @@
          "images": [
             "bosinhuis_2.gif",
             "pattern-final_icon.png"
-         ]
+         ],
+         "bgpos": "0vw -50vh"
       },
       {
          "id": "per",
@@ -30,7 +31,8 @@
             "perinh.jpg",
             "perapp.jpg",
             "percust.jpg"
-         ]
+         ],
+         "bgpos": "auto"
       },
       {
          "id": "sto",
@@ -44,7 +46,8 @@
          "link": "https://my.blocksmithxr.com/embed/57272",
          "images": [
             "vrsto.gif"
-         ]
+         ],
+         "bgpos": "auto"
       },
       {
          "id": "nad",
@@ -63,7 +66,8 @@
             "IMAG0759.jpg",
             "unknowzzzn.png",
             "scrnshotsong.png"
-         ]
+         ],
+         "bgpos": "auto"
       },
       {
          "id": "labs",
@@ -78,7 +82,8 @@
          "images": [
             "poster.png",
             "poster.png"
-         ]
+         ],
+         "bgpos": "0vw -50vh"
       },
       {
          "id": "ca",
@@ -93,7 +98,8 @@
          "images": [
             "cacover.png",
             "caposter.png"
-         ]
+         ],
+         "bgpos": "0vw -20vh"
       },
       {
          "id": "loch",
@@ -109,7 +115,8 @@
             "loch.png",
             "loch8.png",
             "loch20.png"
-         ]
+         ],
+         "bgpos": "0vw -20vh"
       },
       {
          "id": "lief",
@@ -132,7 +139,8 @@
             "enough.png",
             "liefmuismat.png",
             "liefhartbloem.png"
-         ]
+         ],
+         "bgpos": "auto"
       }
    ]
 }
