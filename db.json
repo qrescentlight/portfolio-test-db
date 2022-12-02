@@ -13,8 +13,7 @@
          "images": [
             "bosinhuis_2.gif",
             "pattern-final_icon.png"
-         ],
-         "bgpos": "0vw -50vh"
+         ]
       },
       {
          "id": "per",
@@ -31,23 +30,21 @@
             "perinh.jpg",
             "perapp.jpg",
             "percust.jpg"
-         ],
-         "bgpos": "center"
+         ]
       },
       {
          "id": "sto",
          "name": "Emotionele Mishandeling",
          "desc": [
             "Een VR-applicatie om mensen te leren hoe het is om emotionele mishandeling te ervaren en om hulpverleners te leren hoe je overlevers van emotionele mishandeling kunt herkennen.",
-            "In tegenstelling tot fysieke of seksuele mishandeling zijn de meeste mensen minder bekend met emotionele mishandeling. Emotionele mishandeling, ook wel psychische of geestelijke mishandeling of misbruik, is echter meer dan iemand uitschelden of discrimineren. Emotionele verwaarlozing is ook een vorm van mishandeling, en het komt dan ook vaak voor dat de mishandelaars geen slechte intenties hadden. <br><br> De gevolgen van emotionele mishandeling zijn daarentegen net zo groot als die van fysieke of seksuele mishandeling, als niet groter. Als overlevende van emotionele mishandeling (want wij zijn overlevenden; geen slachtoffers) weet ik maar al te goed waartoe emotionele mishandeling kan leiden. Zo kan het bijvoorbeeld leiden tot een laag zelfvertrouwen, verwarring omtrent iemands gender of seksualiteit, angststoornissen, depressies, aandachtstoornissen, centermutilatie of dissociatie. ",
+            "In tegenstelling tot fysieke of seksuele mishandeling zijn de meeste mensen minder bekend met emotionele mishandeling. Emotionele mishandeling, ook wel psychische of geestelijke mishandeling of misbruik, is echter meer dan iemand uitschelden of discrimineren. Emotionele verwaarlozing is ook een vorm van mishandeling, en het komt dan ook vaak voor dat de mishandelaars geen slechte intenties hadden. <br><br> De gevolgen van emotionele mishandeling zijn daarentegen net zo groot als die van fysieke of seksuele mishandeling, als niet groter. Als overlevende van emotionele mishandeling (want wij zijn overlevenden; geen slachtoffers) weet ik maar al te goed waartoe emotionele mishandeling kan leiden. Zo kan het bijvoorbeeld leiden tot een laag zelfvertrouwen, verwarring omtrent iemands gender of seksualiteit, angststoornissen, depressies, aandachtstoornissen, automutilatie of dissociatie. ",
             "Het eindconcept is een tweedelige VR ervaring. Het eerste deel bestaat uit het ervaren van emotionele mishandeling aan de hand van waargebeurde verhalen. Het tweede deel bestaat uit het herkennen van mensen die emotioneel mishandeling hebben ervaren en wat je kunt doen om deze mensen te helpen.",
             "Het prototype is in BlocksmithXR gemaakt voor het vak Storytelling XR. Ik heb mij vooral bezig gehouden met de concepting en de interactie in Blocksmith."
          ],
          "link": "https://my.blocksmithxr.com/embed/57272",
          "images": [
             "vrsto.gif"
-         ],
-         "bgpos": "center"
+         ]
       },
       {
          "id": "nad",
@@ -66,8 +63,7 @@
             "IMAG0759.jpg",
             "unknowzzzn.png",
             "scrnshotsong.png"
-         ],
-         "bgpos": "center"
+         ]
       },
       {
          "id": "labs",
@@ -82,8 +78,7 @@
          "images": [
             "poster.png",
             "poster.png"
-         ],
-         "bgpos": "0vw -50vh"
+         ]
       },
       {
          "id": "ca",
@@ -98,8 +93,7 @@
          "images": [
             "cacover.png",
             "caposter.png"
-         ],
-         "bgpos": "0vw -20vh"
+         ]
       },
       {
          "id": "loch",
@@ -115,8 +109,7 @@
             "loch.png",
             "loch8.png",
             "loch20.png"
-         ],
-         "bgpos": "0vw -20vh"
+         ]
       },
       {
          "id": "lief",
@@ -139,8 +132,7 @@
             "enough.png",
             "liefmuismat.png",
             "liefhartbloem.png"
-         ],
-         "bgpos": "center"
+         ]
       }
    ]
 }
