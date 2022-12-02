@@ -22,7 +22,7 @@
             "Een customer journey voor een fictieve journaling app om mensen te helpen om keuzes te kunnen maken.",
             "Het onderwerp van mijn concept is het maken van keuzes. Dit gedrag gaan wij duurzaam verbeteren met behulp van een app en cognitieve gedragstherapie.",
             "We gaan bezig met de drie hoofdvragen:<br> *  Hoe maak ik keuzes?<br> *  Hoe ga ik om met de uitkomsten van mijn keuzes?<br> *  Wat houdt mij tegen om keuzes te maken?<br> Deze drie hoofdvragen pakken respectievelijk het heden, de toekomst en het verleden aan.<br> De hele aanpak is gebaseerd op cognitieve gedragstherapie.",
-            "Dit heb ik voor het vak Persuasion gemaakt." 
+            "Dit heb ik voor het vak Persuasion gemaakt."
          ],
          "link": "https://remcopramudita.nl/persuasion/",
          "images": [
@@ -44,20 +44,6 @@
          "link": "https://my.blocksmithxr.com/embed/57272",
          "images": [
             "vrsto.gif"
-         ]
-      },{
-         "id": "ca",
-         "name": "Rode planten",
-         "desc": [
-            "Een visueel verslag naar mijn ontwikkeling als Change Agent",
-            "'Rode planten' verwijst naar het voorbeeld dat ik gebruikte om anderen aan het denken te zetten. Als change agent faciliteer ik het creatieve proces, maar doe ik niet mee. Om anderen in de goede richting te sturen, gebruikte ik steeds een voorbeeldscenario die zij dan op hun eigen casus konden toepassen.",
-            "'Hoe kunnen wij rode planten verkopen?'",
-            "Rode planten zijn iets dat eigenlijk niet bestaat, maar voor de meeste wel aardig voor te stellen is. Rode planten zijn daarmee ook het uitgangspunt van mijn posterpresentatie over mijn ontwikkeling als change agent"
-         ],
-         "link": "https://issuu.com/ocmerpv/docs/ca_spreadless",
-         "images": [
-            "cacover.png",
-            "caposter.png"
          ]
       },
       {
@@ -93,7 +79,8 @@
             "poster.png",
             "poster.png"
          ]
-      },{
+      },
+      {
          "id": "ca",
          "name": "Rode planten",
          "desc": [
@@ -107,48 +94,44 @@
             "cacover.png",
             "caposter.png"
          ]
-      },{
+      },
+      {
          "id": "loch",
          "name": "Loch BrandBook",
          "desc": [
-            null,
-            null,
-            null,
-            null
+            "Een brandbook voor het fictief merk 'Loch' dat ik heb gemaakt voor het concept 'journalen'.",
+            "A piece of mind for a peace of mind.",
+            "'Loch' komt uit de woorden 'logboek', 'lachen' en het Gaelische woord voor meer.",
+            "'Hoe je dag ook was, Loch het vast!'"
          ],
          "link": "https://issuu.com/ocmerpv/docs/b_s_spreadless",
          "images": [
-            "madelief_muur_poster.png",
-            "madelief_muur_poster.png"
-         ]
-      },{
-         "id": "hero",
-         "name": "Be a Digital Hero",
-         "desc": [
-            null,
-            null,
-            null,
-            null
-         ],
-         "link": "https://issuu.com/ocmerpv/docs/b_s_spreadless",
-         "images": [
-            "madelief_muur_poster.png",
-            "madelief_muur_poster.png"
+            "loch.png",
+            "loch8.png",
+            "loch20.png"
          ]
       },
       {
          "id": "lief",
          "name": "madelief not war",
          "desc": [
-            null,
-            null,
-            null,
-            null
+            "Madelief is een eigen merk dat ik aan het ontwikkelen ben om meer positiviteit in de wereld te brengen.",
+            "Madelief is begonnen als woordgrap op een project van een goede vriendin van mij. Ik pitchte bij haar de term 'made with liefde' en dat heb ik later gekoppeld aan de bekende spreuk 'make love, not war'. Wat centraal staat is de madelief: een symbool van liefde, groei en community. Samen met toepasselijke uitspraken en visuals wil ik die waarden delen met anderen.",
+            "De posters die je ziet zijn door mij ontworpen. Tijdens het maken van deze posters had ik nog geen idee van waar ik heen wilde gaan met het merk. Samen Autumn van Grol en onze designervrienden probeer ik daar een duidelijke richting in te krijgen.",
+            "Waar ik naartoe wil gaan is om iedereen het gevoel te geven wat iedereen nodig heeft, maar sommige hebben gemist. Het gevoel dat je er mag zijn, dat je er toe doet en dat je perfect bent zoals je bent. Die 'good mother messages'."
          ],
          "link": "https://remcopramudita.nl/labs/poster.png",
          "images": [
             "madelief_muur_poster.png",
-            "madelief_muur_poster.png"
+            "madelief_muur_poster.png",
+            "madeliefposter.png",
+            "female_hoodie.png",
+            "gentle.png",
+            "tshirt_woman_2.png",
+            "madeliefhoodie.png",
+            "enough.png",
+            "liefmuismat.png",
+            "liefhartbloem.png"
          ]
       }
    ]
