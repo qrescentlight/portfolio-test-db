@@ -1,0 +1,32 @@
+{
+    "parag": [
+        {
+            "id": "par1",
+            "name": "Dit ben ik",
+            "desc": [
+                "Ik droom van een wereld waar iedereen de hulp krijgt die ze nodig hebben; een wereld waar elk persoon de ruimte krijgt om zichzelf te zijn en te ontwikkelen; een wereld waar niemand zich zorgen hoeft te maken over hun mentale welzijn."
+            ]
+        },
+        {
+            "id": "par2",
+            "name": "Ik weet hoe het is",
+            "desc": [
+                "Ik weet hoe het is om in een wereld te leven waar dat niet het geval is, en dat wens ik niemand toe. Als ik die wereld een werkelijkheid wil zien worden, dan moet ik daar zelf mee beginnen. Daarom wil ik mijn kennis, vaardigheden en ervaringen als designer gebruiken om anderen te helpen met hun geestelijke gezondheid."
+            ]
+        },
+        {
+            "id": "par3",
+            "name": "Wat mij onderscheidt",
+            "desc": [
+                "Wat mij onderscheidt van andere designers is mijn grote liefde voor programmeren en persoonlijke groei. Ik heb in anderhalf jaar gewerkt met AR.js, een eigen api gemaakt en deze portfoliowebsite online gezet. Daarnaast heb ik de ervaring als gebruiker van de verschillende platformen. Het zijn die kwaliteiten die ik weet toe te passen op mijn ontwerpen."
+            ]
+        },
+        {
+            "id": "par4",
+            "name": "Ik zoek naar",
+            "desc": [
+                "Ik zoek naar een stage waar ik kan ontdekken op welke verschillende manieren ik design en mijn vaardigheden kan toepassen om anderen te helpen. Daarnaast wil ik graag groeien als illustrator. Ik sta ook open om te werken met nieuwe frameworks en om WordPress en PHP te leren. Maar vooral wil ik graag iets kunnen betekenen voor anderen."
+            ]
+        }
+    ]
+}
